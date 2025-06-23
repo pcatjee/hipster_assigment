@@ -1,1 +1,2 @@
-export { default as useDynamicSnapPoints } from './useDynamicSnapPoints';
+export * from './useDynamicSnapPoints';
+export * from './useLocationTracking';

@@ -1,1 +1,2 @@
-export { requestAndCheckPermissions } from './permissions';
+export * from './permissions';
+export * from './location';

@@ -1,9 +1,12 @@
+// modules
 import { Dimensions, StyleSheet } from 'react-native';
 import {
   moderateScale,
   moderateVerticalScale,
 } from 'react-native-size-matters';
-import { colors } from '../../constants';
+
+// constants
+import { colors } from '@constants';
 
 const { width, height } = Dimensions.get('window');
 

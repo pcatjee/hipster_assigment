@@ -1,9 +1,12 @@
+// modules
 import { StyleSheet } from 'react-native';
 import {
   moderateScale,
   moderateVerticalScale,
 } from 'react-native-size-matters';
-import { colors } from '../../constants';
+
+// constants
+import { colors } from '@constants';
 
 export const styles = StyleSheet.create({
   container: {
@@ -24,7 +27,7 @@ export const styles = StyleSheet.create({
     padding: moderateScale(16),
     marginRight: moderateScale(10),
     width: moderateScale(150),
-    height: moderateScale(50),
+    height: moderateScale(55),
     justifyContent: 'center',
     alignItems: 'center',
     elevation: 2,

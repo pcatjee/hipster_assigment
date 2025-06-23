@@ -1,0 +1,1 @@
+export { requestAndCheckPermissions } from './permissions';

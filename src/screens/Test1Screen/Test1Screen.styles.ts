@@ -24,7 +24,7 @@ export const styles = StyleSheet.create({
     padding: moderateScale(16),
     marginRight: moderateScale(10),
     width: moderateScale(150),
-    height: moderateScale(50),
+    height: moderateScale(55),
     justifyContent: 'center',
     alignItems: 'center',
     elevation: 2,
